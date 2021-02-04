@@ -2,7 +2,7 @@
 
 Quand on débute en programmation sur CodinGame ou ailleurs, on apprend aux côtés d'autres développeurs, grâce à leur remarques, conseils et astuces. Avec de la pratique et du temps, on gagne de l'expérience et on passe petit à petit de l'autre côté de la barrière. Sans même s'en rendre compte, on prend la place de ceux qui nous ont aidé par le passé et on aide d'autres débutants. On devient une sorte de mentor.
 
-L'entraide et l'apprentissage de nouvelles connaissances sont au coeur de CodinGame. Ils sont aussi au coeur d'une plate-forme que l'on connaît bien et que l'on apprécie : [OpenClassrooms](https://openclassrooms.com/fr/). OpenClassrooms est une société française qui partage nos valeurs et qui met en place des formations à destination de tout le monde encadrées par des mentors.
+L'entraide et l'apprentissage de nouvelles connaissances sont au coeur de CodinGame. Ils sont aussi au coeur d'une plate-forme que l'on connaît bien et que l'on apprécie : [OpenClassrooms](https://openclassrooms.com/fr/). OpenClassrooms est une société française qui partage nos valeurs et qui met en place des formations sur des sujets multiples et encadrées par des mentors.
 
 Devenir mentor, ça vous tenterait ? OpenClassrooms cherche de nouveaux mentors et vous pourriez être l'un deux !
 
