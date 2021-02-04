@@ -19,7 +19,7 @@ Voici ce qu'en dit un de leurs mentors:
 
 >"Je reste au top de mes compétences techniques et des bonnes pratiques de mon secteur d'activité."
 
-Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/)
+Vous trouverez plus d'informations et de détails sur [leur programme de mentorat d'OpenClassrooms ici](https://mentor.openclassrooms.com/)
 
 Sur CodinGame, le mentorat n'existe pas encore mais si vous trouvez que c'est une super idée, dites le nous dans les commentaires.
 
