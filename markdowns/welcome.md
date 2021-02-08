@@ -15,11 +15,10 @@ On y voit plusieurs avantages :
 - Vous participez à la communauté des devs en aidant réellement de nouveaux étudiants.
 - Vous grandissez au contact d'autres mentors.
 
-Voici ce qu'en dit un de leurs mentors:
+# En quoi ça consisté concrètement ?
 
->"Je reste au top de mes compétences techniques et des bonnes pratiques de mon secteur d'activité."
-
-Vous trouverez plus d'informations et de détails sur [leur programme de mentorat d'OpenClassrooms ici](https://mentor.openclassrooms.com/)
+La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici [quelques témoignages de mentors](https://www.youtube.com/watch?v=lwvVyFFyoD8)
+Vous trouverez plus d'informations et de détails sur [leur programme de mentorat d'OpenClassrooms ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame)
 
 Sur CodinGame, le mentorat n'existe pas encore mais si vous trouvez que c'est une super idée, dites le nous dans les commentaires.
 
