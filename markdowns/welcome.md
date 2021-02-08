@@ -15,9 +15,11 @@ On y voit plusieurs avantages :
 - Vous participez à la communauté des devs en aidant réellement de nouveaux étudiants.
 - Vous grandissez au contact d'autres mentors.
 
-# En quoi ça consisté concrètement ?
+# En quoi ça consiste concrètement ?
 
+Faire du mentorat chez OpenClassrooms, c'est allouer un minimum d'une demi-heure en visio-conférence à chaque étudiant. C'est vous qui choisissez le nombre d'étudiants que vous voulez suivre et quand vous prévoyez vos rendez-vous.
 La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici quelques témoignages de mentors :
+
 https://www.youtube.com/watch?v=lwvVyFFyoD8
 
 Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame)
