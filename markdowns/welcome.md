@@ -17,8 +17,10 @@ On y voit plusieurs avantages :
 
 # En quoi ça consisté concrètement ?
 
-La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici [quelques témoignages de mentors](https://www.youtube.com/watch?v=lwvVyFFyoD8)
-Vous trouverez plus d'informations et de détails sur [leur programme de mentorat d'OpenClassrooms ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame)
+La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici quelques témoignages de mentors :
+https://www.youtube.com/watch?v=lwvVyFFyoD8
 
-Sur CodinGame, le mentorat n'existe pas encore mais si vous trouvez que c'est une super idée, dites le nous dans les commentaires.
+Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame)
+
+Par ailleurs, le mentorat n'existe pas encore sur CodinGame mais si vous trouvez que c'est une super idée, dites le nous dans les commentaires.
 
