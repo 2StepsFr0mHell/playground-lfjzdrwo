@@ -30,6 +30,21 @@ C'est vous qui choisissez le nombre d'étudiants que vous voulez suivre et quand
 
 Lors de ces rendez-vous avec vos étudiants, vous pourrez effectuer un suivi de leur progression, répondre à leurs questions et les conseiller dans leur apprentissage.
 
+Vous ne vous sentez pas assez légitimes pour devenir mentor et guider d'autres étudiants ?
+C'est normal ! 
+
+Déjà, on ne s'invente pas mentor en un claquement de doigts. Pas de panique !
+Vous serez aidé(e) et guidé(e) par OpenClassrooms et sa communauté de mentors.
+
+De plus, vous commencerez probablement doucement, avec un seul étudiant.
+Jusqu'à que vous soyez que vous soyez plus à l'aise et que tout cela devienne une évidence.
+
+Enfin, rappelez-vous du syndrome de l'imposteur. Vous avez de l'expérience.
+Oui, vous n'êtes pas à l'aise sur tous les sujets possibles et imaginables, mais personne ne l'est. Vous avez vos forces et vos faiblesses.
+Vous pouvez le faire !
+
+------
+
 La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici quelques témoignages de leurs mentors :
 
 https://www.youtube.com/watch?v=lwvVyFFyoD8
