@@ -55,7 +55,8 @@ Vous trouverez plus d'informations et de détails sur [leur programme de mentora
 
 # Et sur CodinGame ?
 
-Pour l'instant, le mentorat n'existe pas encore sur CodinGame. Il est implicite. Les habitués et les plus experimentés sont toujours prêts à aider les nouveaux.
+Pour l'instant, le mentorat n'existe pas encore sur CodinGame. Il est implicite.
+Les habitués et les plus experimentés sur la plate-forme sont toujours prêts à aider les nouveaux, sur le forum, le chat ou sur Discord.
 Cependant, nous n'avons pas mis de cadre autour de cette entraide.
 
 Si vous trouvez que c'est une super idée, dites le nous dans les commentaires et on y réfléchira sérieusement !
