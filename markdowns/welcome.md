@@ -24,11 +24,13 @@ On y voit plusieurs avantages :
 Faire du mentorat chez OpenClassrooms, c'est allouer un minimum d'une demi-heure en visio-conférence à chaque étudiant.
 C'est vous qui choisissez le nombre d'étudiants que vous voulez suivre et quand vous prévoyez vos rendez-vous.
 
+*Cela rend le mentorat parfaitement compatible avec une activité professionelle.*
+
 La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici quelques témoignages de leurs mentors :
 
 https://www.youtube.com/watch?v=lwvVyFFyoD8
 
-Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame)
+Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame) et comment proposer votre candidature.
 
 # Et sur CodinGame ?
 
