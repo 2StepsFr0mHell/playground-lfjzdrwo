@@ -45,13 +45,14 @@ Enfin, rappelez-vous ce qu'est le [syndrome de l'imposteur](https://fr.wikipedia
 Oui, vous n'êtes pas à l'aise sur tous les sujets possibles et imaginables, mais personne ne l'est. Vous avez vos forces et vos faiblesses.
 Vous pouvez le faire !
 
-------
+# C'est parti ?
+
+**Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame) et comment proposer votre candidature.**
 
 La communauté des mentors chez OpenClassrooms compte plus de 1500 membres. Voici quelques témoignages :
 
 https://www.youtube.com/watch?v=lwvVyFFyoD8
 
-Vous trouverez plus d'informations et de détails sur [leur programme de mentorat ici](https://mentor.openclassrooms.com/o/mentor-developpement-web?source=CodinGame) et comment proposer votre candidature.
 
 # Et sur CodinGame ?
 
