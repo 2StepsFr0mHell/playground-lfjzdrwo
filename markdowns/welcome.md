@@ -39,7 +39,7 @@ Déjà, on ne s'invente pas mentor en un claquement de doigts. Pas de panique !
 Vous serez aidé(e) et guidé(e) par OpenClassrooms et sa communauté de mentors.
 
 De plus, vous commencerez probablement par aider un seul étudiant.
-Jusqu'à que vous soyez que vous soyez plus à l'aise pour en guider plusieurs et que tout cela devienne une évidence.
+Jusqu'à que vous soyez plus à l'aise pour en guider plusieurs et que tout cela devienne une évidence.
 
 Enfin, rappelez-vous ce qu'est le [syndrome de l'imposteur](https://fr.wikipedia.org/wiki/Syndrome_de_l'imposteur). Vous avez de l'expérience.
 Oui, vous n'êtes pas à l'aise sur tous les sujets possibles et imaginables, mais personne ne l'est. Vous avez vos forces et vos faiblesses.
