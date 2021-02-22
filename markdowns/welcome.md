@@ -23,7 +23,7 @@ On y voit plusieurs avantages :
 
 # En quoi ça consiste concrètement ?
 
-Faire du mentorat chez OpenClassrooms, c'est allouer un minimum d'une demi-heure en visio-conférence à chaque étudiant.
+Faire du mentorat chez OpenClassrooms, c'est allouer un minimum d'une demi-heure par semaine, en visio-conférence, à chaque étudiant.
 C'est vous qui choisissez le nombre d'étudiants que vous voulez suivre et quand vous prévoyez vos rendez-vous.
 
 *Cela rend le mentorat parfaitement compatible avec une activité professionelle. Par ailleurs, il n'incombe pas aux mentors de produire le contenu pédagogique, qui est intégralement fourni par OpenClassrooms*
